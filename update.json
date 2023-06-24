@@ -1,13 +1,13 @@
 {
-  "name": "Demo.apk",
+  "name": "update.apk",
   "size": 1566726,
   "compressedSize": 1327288,
   "app": {
     "name": "Vražda na Bečvě",
     "package": "com.kiadu.app",
     "version": {
-      "code": 10002,
-      "name": "1.0.3"
+      "code": 10003,
+      "name": "1.0.4"
     }
   }
 }
